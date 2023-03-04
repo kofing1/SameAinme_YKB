@@ -1,0 +1,68 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "L2Dkanban.moc3",
+		"Textures": [
+			"L2Dkanban.2048/texture_00.png"
+		],
+		"DisplayInfo": "L2Dkanban.cdi3.json"
+		"Motions": {
+      "": [
+        {
+          "File": "motions/SceneA1.motion3.json"
+        },
+        {
+          "File": "motions/SceneA2.motion3.json"
+        },
+        {
+          "File": "motions/SceneA3.motion3.json"
+        },
+        {
+          "File": "motions/SceneB1.motion3.json"
+        },
+        {
+          "File": "motions/SceneB2.motion3.json"
+        },
+        {
+          "File": "motions/SceneB3.motion3.json"
+        },
+        {
+          "File": "motions/SceneC1.motion3.json"
+        },
+        {
+          "File": "motions/SceneC2.motion3.json"
+        },
+        {
+          "File": "motions/SceneC3.motion3.json"
+        },
+        {
+          "File": "motions/SceneD1.motion3.json"
+        },
+        {
+          "File": "motions/SceneD2.motion3.json"
+        },
+        {
+          "File": "motions/SceneD3.motion3.json"
+        },
+        {
+          "File": "motions/SceneE1.motion3.json"
+        },
+        {
+          "File": "motions/SceneE2.motion3.json"
+        }
+      ]
+    }
+  },
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
