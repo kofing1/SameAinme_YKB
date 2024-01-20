@@ -1,0 +1,42 @@
+{
+  "Hash": "6cc1f66965dd5f4e8b835d2a7c508e24",
+  "PackedFiles": {
+    "accessory_etc": {
+      "Name": "accessory_etc",
+      "Hash": "09d46bb85583edd7be284197583a6d93",
+      "Position": 452,
+      "Length": 136319
+    },
+    "accessory_glass": {
+      "Name": "accessory_glass",
+      "Hash": "0cea317f9c3bbe97ce264204420835a6",
+      "Position": 136771,
+      "Length": 399324
+    },
+    "accessory_head": {
+      "Name": "accessory_head",
+      "Hash": "347a25fc974b35358b33e53aafe459b4",
+      "Position": 536095,
+      "Length": 3086436
+    },
+    "accessory_mask": {
+      "Name": "accessory_mask",
+      "Hash": "8bf6e7dddf88295451ee7bd56fdf9fed",
+      "Position": 3622531,
+      "Length": 187541
+    },
+    "accessory_weist": {
+      "Name": "accessory_weist",
+      "Hash": "0946b3c893264cdc5d8716a2ffd6023a",
+      "Position": 3810072,
+      "Length": 61326
+    },
+    "accessory_wing": {
+      "Name": "accessory_wing",
+      "Hash": "72044150d8231fbc9129be1bbb52ba8d",
+      "Position": 3871398,
+      "Length": 3513189
+    }
+  },
+  "IsCompressed": false
+}
