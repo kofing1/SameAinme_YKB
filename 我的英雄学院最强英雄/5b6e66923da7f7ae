@@ -1,0 +1,1782 @@
+dyax01B?xml version="1.0" encoding="utf-8"?>
+<Body>
+	<textures>
+		<texture name="images/bg_grid114_b.png"/>
+		<texture name="images/gemmap_c.png"/>
+		<texture name="images/heifangkuan.png"/>
+		<texture name="images/juesexz_01.png"/>
+		<texture name="images/juesexz_02.png"/>
+		<texture name="images/juesexz_03.png"/>
+		<texture name="images/juesexz_04.png"/>
+		<texture name="images/juesexz_05.png"/>
+		<texture name="images/juesexz_06.png"/>
+		<texture name="images/juesexz_07.png"/>
+		<texture name="images/juesexz_08.png"/>
+		<texture name="images/juesexz_09.png"/>
+		<texture name="images/juesexz_10.png"/>
+		<texture name="images/juesexz_11.png"/>
+		<texture name="images/juesexz_12.png"/>
+		<texture name="images/juesexz_13.png"/>
+		<texture name="images/juesexz_14.png"/>
+		<texture name="images/juesexz_15.png"/>
+		<texture name="images/kejiquang_b.png"/>
+		<texture name="images/lo1.png"/>
+		<texture name="images/oop-2.png"/>
+		<texture name="images/phone.png"/>
+		<texture name="images/sfqr_bian1.png"/>
+		<texture name="images/sfqr_shoujidi_b.png"/>
+		<texture name="images/sfqr_sz_00.png"/>
+		<texture name="images/sfqr_sz_01.png"/>
+		<texture name="images/sfqr_sz_02.png"/>
+		<texture name="images/sfqr_sz_04.png"/>
+		<texture name="images/sfqr_sz_05.png"/>
+		<texture name="images/sfqr_sz_06.png"/>
+		<texture name="images/sfqr_sz_07.png"/>
+		<texture name="images/sfqr_sz_08.png"/>
+		<texture name="images/sfqr_sz_09.png"/>
+		<texture name="images/sfqr_sz_baif.png"/>
+		<texture name="images/sfqr_sz_dian.png"/>
+		<texture name="images/sfqr_tu_aa.png"/>
+		<texture name="images/sfqr_wz_02.png"/>
+		<texture name="images/sfqr_wz_04.png"/>
+		<texture name="images/sfqr_wz_05.png"/>
+		<texture name="images/sfqr_wz_06.png"/>
+		<texture name="images/sfqr_wz_07.png"/>
+		<texture name="images/sfqr_wz_09.png"/>
+		<texture name="images/sfqr_wz_10.png"/>
+		<texture name="images/sfqr_wz_11.png"/>
+		<texture name="images/sfqr_wz_12.png"/>
+		<texture name="images/sfqr_wz_13.png"/>
+		<texture name="images/sfqr_wz_14.png"/>
+		<texture name="images/sfqr_xian_02.png"/>
+		<texture name="images/sfqr_xian_04.png"/>
+		<texture name="images/sfqr_xxxh.png"/>
+		<texture name="images/sfqr_zq.png"/>
+		<texture name="images/sfqr_zy01.png"/>
+		<texture name="images/sfqr_zy02.png"/>
+		<texture name="images/sfqr_zy03.png"/>
+		<texture name="images/sfqr_zy05.png"/>
+		<texture name="images/target_3.png"/>
+		<texture name="images/ui_kzz_16.png"/>
+		<texture name="images/wamgzhuangxian_1.png"/>
+		<texture name="images/zhiwen_1.png"/>
+	</textures>
+	<sounds>
+	</sounds>
+	<symbols>
+		<symbol name="mc/ddddd">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="shape" width="450.35" height="685.75">
+						<contour orientation="-1" interior="true" color="#ff0000">
+							<matrix a="0" d="0"/>
+							<point id="289515756"/>
+							<point id="289515644"/>
+							<point id="289516428"/>
+							<point id="289516540"/>
+							<point id="289515980"/>
+							<point id="289516204"/>
+							<point id="289516092"/>
+							<point id="289516316"/>
+							<point id="289515868"/>
+							<point id="289515756"/>
+						</contour>
+						<edges>
+							<edge group="1" noDraw="0" id0="289515728" id1="289515756" x0="205.5" y0="-343.25" x1="217.3732421875" y1="-341.955078125" x2="222.5" y2="-332.95"/>
+							<edge group="2" noDraw="0" id0="289515840" id1="289515868" x0="222.5" y0="-332.95" x1="224.50625" y1="-328.93125" x2="224" y2="-315.7"/>
+							<edge group="3" noDraw="0" id0="289516064" id1="289516092" x0="224" y0="324" x1="222.1205078125" y1="339.5720703125" x2="208.5" y2="342.5"/>
+							<edge group="4" isLine="1" noDraw="0" id0="289516288" id1="289516316" x0="224" y0="-315.7" x2="224" y2="324"/>
+							<edge group="5" noDraw="0" id0="289516400" id1="289516428" x0="-226.25" y0="-323" x1="-223.9333984375" y1="-341.7021484375" x2="-208.75" y2="-343.25"/>
+							<edge group="6" noDraw="0" id0="289515952" id1="289515980" x0="-211.25" y0="342.5" x1="-223.162109375" y1="340.248046875" x2="-226.25" y2="325.25"/>
+							<edge group="7" isLine="1" noDraw="0" id0="289516512" id1="289516540" x0="-226.25" y0="325.25" x2="-226.25" y2="-323"/>
+							<edge group="8" isLine="1" noDraw="0" id0="289515616" id1="289515644" x0="-208.75" y0="-343.25" x2="205.5" y2="-343.25"/>
+							<edge group="9" isLine="1" noDraw="0" id0="289516176" id1="289516204" x0="208.5" y0="342.5" x2="-211.25" y2="342.5"/>
+						</edges>
+						<matrix tx="1.1" ty="0.4"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="fx_01">
+			<layer index="0" name="layer 4 复制" layerType="mask">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="450.35" height="685.75" instanceType="symbol" libraryItem="mc/ddddd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="390.3" ty="0.45"/>
+					</element>
+				</frame>
+				<frame index="230" duration="5" tweenType="motion">
+					<element elementType="instance" width="450.35" height="685.75" instanceType="symbol" libraryItem="mc/ddddd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="390.3" ty="0.45"/>
+					</element>
+				</frame>
+				<frame index="235" tweenType="none">
+					<element elementType="instance" width="70.8" height="107.3" instanceType="symbol" libraryItem="mc/ddddd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.1571807861328125" d="0.1564788818359375" tx="578.75" ty="280.1"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 57" layerType="masked" parentIndex="0">
+				<frame duration="60" tweenType="none">
+				</frame>
+				<frame index="60" duration="2" tweenType="motion">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="62" duration="3" tweenType="motion">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="65" tweenType="none">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="66" tweenType="none">
+				</frame>
+				<frame index="67" duration="54" tweenType="none">
+				</frame>
+				<frame index="121" duration="4" tweenType="motion">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="125" duration="4" tweenType="motion">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="129" tweenType="none">
+					<element elementType="instance" width="454.4" height="687.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="22.71759033203125" d="34.35626220703125" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="130" tweenType="none">
+				</frame>
+				<frame index="131" duration="95" tweenType="none">
+				</frame>
+				<frame index="226" tweenType="motion">
+					<element elementType="instance" width="466" height="712" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="23.299942016601562" d="35.60247802734375" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="227" tweenType="motion">
+					<element elementType="instance" width="466" height="712.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,25">
+						<matrix a="23.30242919921875" d="35.60682678222656" tx="390.7" ty="0.2"/>
+					</element>
+				</frame>
+				<frame index="228" tweenType="motion">
+					<element elementType="instance" width="466" height="712.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,50">
+						<matrix a="23.30242919921875" d="35.60682678222656" tx="390.7" ty="0.2"/>
+					</element>
+				</frame>
+				<frame index="229" tweenType="motion">
+					<element elementType="instance" width="466" height="712.1" instanceType="symbol" librayItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,75">
+						<matrix a="23.30242919921875" d="35.60682678222656" tx="390.7" ty="0.2"/>
+					</element>
+				</frame>
+				<frame index="230" tweenType="motion">
+					<element elementType="instance" width="466" height="712" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="23.299942016601562" d="35.60247802734375" tx="391.05" ty="1"/>
+					</element>
+				</frame>
+				<frame index="231" tweenType="motion">
+					<element elementType="instance" width="387.1" height="591.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="19.352508544921875" d="29.558807373046875" tx="428.25" ty="56.15"/>
+					</element>
+				</frame>
+				<frame index="232" tweenType="motion">
+					<element elementType="instance" width="308.1" height="470.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="15.402557373046875" d="23.5113525390625" tx="465.8" ty="112.1"/>
+					</element>
+				</frame>
+				<frame index="233" tweenType="motion">
+					<element elementType="instance" width="229.1" height="349.3" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="11.452651977539062" d="17.462783813476562" tx="503.4" ty="168.1"/>
+					</element>
+				</frame>
+				<frame index="234" tweenType="motion">
+					<element elementType="instance" width="150.1" height="228.3" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="7.5027313232421875" d="11.414794921875" tx="540.95" ty="224.05"/>
+					</element>
+				</frame>
+				<frame index="235" tweenType="none">
+					<element elementType="instance" width="71.1" height="107.3" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="3.5526123046875" d="5.366455078125" tx="578.6" ty="280.1"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="2" name="layer 11 复制" layerType="masked" parentIndex="0">
+				<frame duration="8" tweenType="motion">
+					<element elementType="instance" width="461.4" height="701.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="255,255,255,0" colorPercent="0,0,0,100">
+						<matrix a="23.070037841796875" d="35.057342529296875" tx="389.7" ty="1"/>
+					</element>
+				</frame>
+				<frame index="8" tweenType="none">
+					<element elementType="instance" width="461.4" height="701.1" instanceType="symbol" libraryItem="mc/sjh" colorAmount="255,255,255,0" colorPercent="0,0,0,0">
+						<matrix a="23.070037841796875" d="35.057342529296875" tx="389.7" ty="1"/>
+					</element>
+				</frame>
+				<frame index="9" duration="227" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="3" name="layer 4 复制" layerType="mask">
+				<frame duration="236" tweenType="none">
+					<element elementType="instance" width="450.35" height="685.75" instanceType="symbol" libraryItem="mc/ddddd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="390.3" ty="0.45"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="4" name="layer 54" layerType="masked" parentIndex="3">
+				<frame duration="172" tweenType="none">
+				</frame>
+				<frame index="172" duration="58" tweenType="none">
+					<element elementType="instance" width="268" height="339" instanceType="symbol" libraryItem="mc/qeadd" loop="play once" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-11.999"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="5" name="layer 58" layerType="masked" parentIndex="3">
+				<frame duration="125" tweenType="none">
+				</frame>
+				<frame index="125" duration="105" tweenType="none">
+					<element elementType="instance" width="319.5" height="369.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="15.977188110351562" d="18.458633422851562" tx="393.15" ty="21.25"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="6" name="layer 2" layerType="masked" parentIndex="3">
+				<frame duration="137" tweenType="none">
+				</frame>
+				<frame index="137" duration="93" tweenType="none">
+					<element elementType="instance" width="337" height="481.4" instanceType="symbol" libraryItem="mc/qeqe" loop="play once" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-11.999"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="7" name="layer 9" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,50">
+						<matrix tx="282.3" ty="-219.649"/>
+					</element>
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="2,252,184,0" colorPercent="0,0,0,28">
+						<matrix tx="295.45" ty="-91.649"/>
+					</element>
+					<element elementType="instance" width="327.65" height="21.35" instanceType="symbol" libraryItem="mc/asdadz" blendMode="add" colorAmount="2,252,184,0" colorPercent="0,0,0,100">
+						<matrix tx="231.5" ty="54.3"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="8" name="layer 10" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="205.9" height="304.75" instanceType="symbol" libraryItem="mc/qweqeeeee" colorAmount="2,252,184,0" colorPercent="0,0,0,100">
+						<matrix a="0.8799896240234375" d="0.8799896240234375" tx="226" ty="-237.849"/>
+					</element>
+					<element elementType="instance" width="120.3" height="120.3" instanceType="symbol" libraryItem="mc/zw" colorAmount="2,252,184,0" colorPercent="0,0,0,68">
+						<matrix a="0.4699859619140625" d="0.4699859619140625" tx="409.9" ty="-172.249"/>
+					</element>
+					<element elementType="instance" width="8" height="256" instanceType="symbol" libraryItem="mc/rqrqr" colorAmount="2,252,184,0" colorPercent="0,0,0,59">
+						<matrix tx="219.3" ty="-248.649"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="9" name="layer 11" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="250.85" height="102.9" instanceType="symbol" libraryItem="mc/asdadad" colorAmount="2,252,184,0" colorPercent="0,0,0,41">
+						<matrix a="-0.489990234375" d="-0.489990234375" tx="561.85" ty="57.9"/>
+					</element>
+					<element elementType="instance" width="133.1" height="66.55" instanceType="symbol" libraryItem="mc/qeqr" colorAmount="2,252,184,0" colorPercent="0,0,0,42">
+						<matrix tx="430.7" ty="-240.899"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="10" name="guang" layerType="masked" parentIndex="3">
+				<frame duration="73" tweenType="none">
+				</frame>
+				<frame index="73" duration="9" tweenType="motion">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,58">
+						<matrix tx="477.25" ty="41.6"/>
+					</element>
+				</frame>
+				<frame index="82" duration="5" tweenType="none">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,0">
+						<matrix tx="477.25" ty="41.6"/>
+					</element>
+				</frame>
+				<frame index="87" duration="8" tweenType="motion">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,58">
+						<matrix tx="477.25" ty="73.6"/>
+					</element>
+				</frame>
+				<frame index="95" duration="6" tweenType="none">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,0">
+						<matrix tx="477.25" ty="73.6"/>
+					</element>
+				</frame>
+				<frame index="101" duration="9" tweenType="motion">
+					<e-ement elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,58">
+						<matrix tx="477.25" ty="109.1"/>
+					</element>
+				</frame>
+				<frame index="110" duration="4" tweenType="motion">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,58">
+						<matrix tx="477.25" ty="141.6"/>
+					</element>
+				</frame>
+				<frame index="114" duration="11" tweenType="none">
+					<element elementType="instance" width="128" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="72,255,97,0" colorPercent="0,0,0,0">
+						<matrix tx="477.25" ty="141.6"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="11" name="对勾" layerType="masked" parentIndex="3">
+				<frame duration="73" tweenType="none">
+				</frame>
+				<frame index="73" duration="14" tweenType="none">
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="92.1"/>
+					</element>
+				</frame>
+				<frame index="87" duration="14" tweenType="none">
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="92.1"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="128.2"/>
+					</element>
+				</frame>
+				<frame index="101" duration="9" tweenType="none">
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="92.1"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="128.2"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="164.1"/>
+					</element>
+				</frame>
+				<frame index="110" duration="15" tweenType="none">
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="92.1"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="128.2"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="164.1"/>
+					</element>
+					<element elementType="instance" width="28" height="28" instanceType="bitmap" libraryItem="images/sfqr_zq.png">
+						<matrix tx="529.8" ty="200.2"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="12" name="layer 60" layerType="masked" parentIndex="3">
+				<frame duration="64" tweenType="none">
+				</frame>
+				<frame index="64" duration="8" tweenType="motion">
+					<element elementType="instance" width="2" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="0.100006103515625" d="0.649993896484375" tx="319.2" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="72" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="73" duration="9" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="12,212,25,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="82" duration="43" tweenType="none">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="13" name="进度条1" layerType="masked" parentIndex="3">
+				<frame duration="64" tweenType="none">
+				</frame>
+				<frame index="64" duration="8" tweenType="motion">
+					<element elementType="instance" width="2" height="13" instanceType="symbol" libraryItem="mc/qwer" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.0099945068359375" tx="319.25" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="72" tweenType="none">
+					<element elementType="instance" width="205.1" height="13.2" instanceType="symbol" libraryItem="mc/qwerrr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="421.75" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="73" duration="9" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13.2" instanceType="symbol" libraryItem="mc/qwerrr" colorAmount="0,255,0,0" colorPercent="0,0,0,100">
+						<matrix tx="421.75" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="82" duration="43" tweenType="none">
+					<element elementType="instance" width="205.1" height="13.2" instanceType="symbol" libraryItem="mc/qwerrr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="421.75" ty="106.65"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="14" name="layer 61" layerType="masked" parentIndex="3">
+				<frame duration="78" tweenType="none">
+				</frame>
+				<frame index="78" duration="8" tweenType="motion">
+					<element elementType="instance" width="2" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="0.100006103515625" d="0.649993896484375" tx="319.2" ty="143.45"/>
+					</element>
+				</frame>
+				<frame index="86" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="143.45"/>
+					</element>
+				</frame>
+				<frame index="87" duration="9" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="12,212,25,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="143.45"/>
+					</element>
+				</frame>
+				<frame index="96" duration="29" tweenType="none">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="143.45"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="15" name="layer 62" layerType="masked" parentIndex="3">
+				<frame duration="94" tweenType="none">
+				</frame>
+				<frame index="94" duration="6" tweenType="motion">
+					<element elementType="instance" width="2" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="0.100006103515625" d="0.649993896484375" tx="319.2" ty="179.85"/>
+					</element>
+				</frame>
+				<frame index="100" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="179.85"/>
+					</element>
+				</frame>
+				<frame index="101" duration="9" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="12,212,25,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="179.85"/>
+					</element>
+				</frame>
+				<frame index="110" duration="15" tweenType="none">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="179.85"/>
+					</element>
+				</frame>
+				<fame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="16" name="layer 63" layerType="masked" parentIndex="3">
+				<frame duration="107" tweenType="none">
+				</frame>
+				<frame index="107" duration="3" tweenType="motion">
+					<element elementType="instance" width="2" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="0.100006103515625" d="0.649993896484375" tx="319.2" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="110" duration="7" tweenType="motion">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="12,212,25,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="117" duration="8" tweenType="none">
+					<element elementType="instance" width="205.1" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,100">
+						<matrix a="10.25311279296875" d="0.649993896484375" tx="421.55" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="17" name="进度条底" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="206" height="14" instanceType="bitmap" libraryItem="images/sfqr_zy05.png">
+						<matrix tx="318.75" ty="99.65"/>
+					</element>
+					<element elementType="instance" width="206" height="14" instanceType="bitmap" libraryItem="images/sfqr_zy05.png">
+						<matrix tx="318.75" ty="136.45"/>
+					</element>
+					<element elementType="instance" width="206" height="14" instanceType="bitmap" libraryItem="images/sfqr_zy05.png">
+						<matrix tx="318.75" ty="172.45"/>
+					</element>
+					<element elementType="instance" width="206" height="14" instanceType="bitmap" libraryItem="images/sfqr_zy05.png">
+						<matrix tx="318.75" ty="207.65"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="18" name="layer 19" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="88" height="140" instanceType="bitmap" libraryItem="images/sfqr_wz_13.png">
+						<matrix tx="229.9" ty="89.45"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="19" name="layer 64" layerType="masked" parentIndex="3">
+				<frame duration="62" tweenType="none">
+				</frame>
+				<frame index="62" duration="63" tweenType="none">
+					<element elementType="instance" width="342.4" height="147.7" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,50">
+						<matrix a="17.1199951171875" d="7.3848876953125" tx="393.1" ty="156.15"/>
+					</element>
+					<element elementType="instance" width="342.4" height="0.8" instanceType="symbol" libraryItem="mc/sjh" colorAmount="50,214,214,0" colorPercent="0,0,0,50">
+						<matrix a="17.1201171875" d="0.0399932861328125" tx="392.75" ty="233.95"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="20" name="layer 21" layerType="masked" parentIndex="3">
+				<frame duration="3" tweenType="motion">
+					<element elementType="instance" width="130.3" height="130.3" instanceType="symbol" libraryItem="mc/gag" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="340.25" ty="-53.949"/>
+					</element>
+				</frame>
+				<frame index="3" tweenType="none">
+					<element elementType="instance" width="130.3" height="130.3" instanceType="symbol" libraryItem="mc/gag" blendMode="add" colorAmount="255,255,255,0" colorPercent="0,0,0,100">
+						<matrix tx="340.25" ty="-53.949"/>
+					</element>
+				</frame>
+				<frame index="4" duration="10" tweenType="motion">
+					<element elementType="instance" width="130.3" height="130.3" instanceType="symbol" libraryItem="mc/gag" blendMode="add" colorAmount="51,255,0,0" colorPercent="0,0,0,100">
+						<matrix tx="340.25" ty="-53.949"/>
+					</element>
+				</frame>
+				<frame index="14" tweenType="none">
+					<element elementType="instance" width="130.3" height="130.3" instanceType="symbol" libraryItem="mc/gag" blendMode="add" colorAmount="51,255,0,0" colorPercent="0,0,0,0">
+						<matrix tx="340.25" ty="-53.949"/>
+					</element>
+				</frame>
+				<frame index="15" duration="221" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="21" name="layer 11 复制" layerType="masked" parentIndex="3">
+				<frame duration="41" tweenType="none">
+				</frame>
+				<frame index="41" duration="14" tweenType="none">
+					<element elementType="shape" width="133.5" height="133.5">
+						<edges>
+						</edges>
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="55" duration="7" tweenType="none">
+					<element elementType="shape" width="133.5" height="133.5">
+						<edges>
+						</edges>
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="62" tweenType="none">
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="22" name="layer 25" layerType="masked" parentIndex="3">
+				<frame duration="27" tweenType="none">
+				</frame>
+				<frame index="27" duration="27" tweenType="none">
+					<element elementType="instance" width="172" height="226" instanceType="bitmap" libraryItem="images/sfqr_xian_02.png">
+						<matrix a="2" d="2" tx="312.2" ty="-239.249"/>
+					</element>
+				</frame>
+				<frame index="54" duration="182" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="23" name="遮罩" layerType="masked" parentIndex="3">
+				<frame duration="27" tweenType="none">
+				</frame>
+				<frame index="27" duration="28" tweenType="none">
+					<element elementType="instance" width="170.55" height="222.7" instanceType="symbol" libraryItem="mc/qeqeqe" colorAmount="15,15,30,0" colorPercent="0,100,0,15">
+						<matrix tx="311.2" ty="-239.849"/>
+					</element>
+				</frame>
+				<frame index="55" duration="181" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="24" name="layer 27" layerType="masked" parentIndex="3">
+				<frame duration="236" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="25" name="layer 55" layerType="masked" parentIndex="3">
+				<frame duration="63" tweenType="none">
+					<element elementType="instance" width="169.05" height="224.8" instanceType="symbol" libraryItem="mc/gsdgsg" firstFrame="232" loop="play once" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-13.999"/>
+					</element>
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="26" name="指纹" layerType="masked" parentIndex="3">
+				<frame duration="236" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="27" name="信号塔匹配中" layerType="masked" parentIndex="3">
+				<frame duration="22" tweenType="none">
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="195" height="31" instanceType="symbol" libraryItem="mc/fafaf" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix tx="402.5" ty="178.65"/>
+					</element>
+				</frame>
+				<frame index="27" duration="15" tweenType="none">
+					<element elementType="instance" width="195" height="31" instanceType="symbol" libraryItem="mc/fafaf" colorPercent="100,100,100,100">
+						<matrix tx="393.8" ty="13.6"/>
+					</element>
+				</frame>
+				<frame index="42" duration="194" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="28" name="信号塔匹配中" layerType="masked" parentIndex="3">
+				<frame duration="5" tweenType="none">
+					<element elementType="instance" width="104" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_04.png">
+						<matrix tx="350.4" ty="162.95"/>
+					</element>
+				</frame>
+				<frame index="5" duration="17" tweenType="none">
+					<element elementType="instance" width="154" height="31" instanceType="symbol" libraryItem="mc/aaaa" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="402.5" ty="178.65"/>
+					</element>
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="154" height="31" instanceType="symbol" libraryItem="mc/aaaa" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="402.5" ty="178.65"/>
+					</element>
+				</frame>
+				<frame index="27" tweenType="none">
+					<element elementType="instance" wi]th="154" height="31" instanceType="symbol" libraryItem="mc/aaaa" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix tx="393.8" ty="13.6"/>
+					</element>
+				</frame>
+				<frame index="28" duration="14" tweenType="none">
+				</frame>
+				<frame index="42" duration="13" tweenType="none">
+					<element elementType="instance" width="104" height="31" instanceType="symbol" libraryItem="mc/qqqw" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="392.2" ty="18.2"/>
+					</element>
+				</frame>
+				<frame index="55" duration="7" tweenType="motion">
+					<element elementType="instance" width="104" height="31" instanceType="symbol" libraryItem="mc/qqqw" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="392.2" ty="18.2"/>
+					</element>
+				</frame>
+				<frame index="62" tweenType="none">
+					<element elementType="instance" width="104" height="31" instanceType="symbol" libraryItem="mc/qqqw" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix tx="392.2" ty="18.2"/>
+					</element>
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="29" name="黑外框" layerType="masked" parentIndex="3">
+				<frame duration="14" tweenType="motion">
+					<element elementType="instance" width="358" height="504" instanceType="symbol" libraryItem="mc/gadga" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="212.2" ty="-251.949"/>
+					</element>
+				</frame>
+				<frame index="14" tweenType="none">
+					<element elementType="instance" width="358" height="504" instanceType="symbol" libraryItem="mc/gadga" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix tx="212.2" ty="-251.949"/>
+					</element>
+				</frame>
+				<frame index="15" duration="110" tweenType="none">
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="30" name="碎碎念字体" layerType="masked" parentIndex="3">
+				<frame duration="236" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="31" name="guang" layerType="masked" parentIndex="3">
+				<frame duration="41" tweenType="none">
+				</frame>
+				<frame index="41" duration="2" tweenType="motion">
+					<element elementType="instance" width="132.15" height="47.35" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="51,255,255,0" colorPercent="0,0,0,54">
+						<matrix a="1.03228759765625" d="0.3699951171875" tx="327.7" ty="-10.099"/>
+					</element>
+				</frame>
+				<frame index="43" duration="11" tweenType="motion">
+					<element elementType="instance" width="357.1" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="51,255,255,0" colorPercent="0,0,0,54">
+						<matrix a="2.78997802734375" tx="215.25" ty="-50.399"/>
+					</element>
+				</frame>
+				<frame index="54" tweenType="none">
+					<element elementType="instance" width="357.1" height="128" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="51,255,255,0" colorPercent="0,0,0,0">
+						<matrix a="2.78997802734375" tx="215.25" ty="-50.399"/>
+					</element>
+				</frame>
+				<frame index="55" duration="181" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="32" name="layer 69" layerType="masked" parentIndex="3">
+				<frame duration="22" tweenType="none">
+					<element elementType="instance" width="75.55" height="22.05" instanceType="symbol" libraryItem="mc/gasda" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="516" ty="239.05"/>
+					</element>
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="75.55" height="22.05" instanceType="symbol" libraryItem="mc/gasda" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="516" ty="239.05"/>
+					</element>
+				</frame>
+				<frame index="27" tweenType="none">
+					<element elementType="instance" width="75.55" height="22.05" instanceType="symbol" libraryItem="mc/gasda" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="516" ty="73.85"/>
+					</element>
+				</frame>
+				<frame index="28" duration="4" tweenType="none">
+					<element elementType="instance" width="75.55" height="22.05" instanceType="symbol" libraryItem="mc/gasda" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="516" ty="73.85"/>
+					</element>
+				</frame>
+				<frame index="32" tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_07.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_05.png">
+						<matrix tx="512.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_05.png">
+						<matrix tx="524.4" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_02.png">
+						<matrix tx="491.1" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="503.15" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="536.8" ty="62.85"/>
+					</element>
+				</frame>
+				<frame index="33" duration="2" tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_07.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_02.png">
+						<matrix tx="512.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_04.png">
+						<matrix tx="524.4" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_08.png">
+						<matrix tx="491.1" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="503.15" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="536.8" ty="62.85"/>
+					</element>
+				</frame>
+				<frame index="35" duration="2" tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_08.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_09.png">
+						<matrix tx="512.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_04.png">
+						<matrix tx="524.4" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_04.png">
+						<matrix tx="491.1" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="503.15" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="536.8" ty="62.85"/>
+					</element>
+				</frame>
+				<frame index="37" duration="2" tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_09.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="512.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="524.4" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="491.1" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="503.15" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="536.8" ty="62.85"/>
+					</element>
+				</frame>\				<frame index="39" duration="2" tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_09.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="12" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_01.png">
+						<matrix tx="512.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_08.png">
+						<matrix tx="520" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_02.png">
+						<matrix tx="491.1" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="503.15" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="532.6" ty="62.85"/>
+					</element>
+				</frame>
+				<frame index="41" duration="84" tweenType="none">
+					<element elementType="instance" width="12" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_01.png">
+						<matrix tx="478.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="499.25" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="520" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="487.3" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="511.45" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="543.8" ty="62.85"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="532.2" ty="62.85"/>
+					</element>
+				</frame>
+				<frame index="125" duration="111" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="33" name="进度条框" layerType="masked" parentIndex="3">
+				<frame duration="22" tweenType="none">
+					<element elementType="instance" width="334" height="19" instanceType="symbol" libraryItem="mc/rqwr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.25" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="334" height="19" instanceType="symbol" libraryItem="mc/rqwr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.25" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="27" duration="28" tweenType="motion">
+					<element elementType="instance" width="334" height="19" instanceType="symbol" libraryItem="mc/rqwr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.25" ty="49.6"/>
+					</element>
+				</frame>
+				<frame index="55" duration="7" tweenType="motion">
+					<element elementType="instance" width="334" height="19" instanceType="symbol" libraryItem="mc/rqwr" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.25" ty="49.6"/>
+					</element>
+				</frame>
+				<frame index="62" tweenType="motion">
+					<element elementType="instance" width="334" height="19" instanceType="symbol" libraryItem="mc/rqwr" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix tx="391.25" ty="49.6"/>
+					</element>
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="34" name="进度条堵头" layerType="masked" parentIndex="3">
+				<frame duration="27" tweenType="none">
+				</frame>
+				<frame index="27" duration="5" tweenType="motion">
+					<element elementType="instance" width="6.4" height="39.7" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="0.0500030517578125" d="0.30999755859375" tx="448.35" ty="30.2"/>
+					</element>
+				</frame>
+				<frame index="32" duration="9" tweenType="motion">
+					<element elementType="instance" width="6.4" height="39.7" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="51,255,0,0" colorPercent="0,0,0,100">
+						<matrix a="0.0500030517578125" d="0.30999755859375" tx="448.35" ty="30.2"/>
+					</element>
+				</frame>
+				<frame index="41" duration="14" tweenType="motion">
+					<element elementType="instance" width="6.4" height="39.7" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="51,255,0,0" colorPercent="0,0,0,100">
+						<matrix a="0.0500030517578125" d="0.30999755859375" tx="554.5" ty="30.2"/>
+					</element>
+				</frame>
+				<frame index="55" tweenType="none">
+					<element elementType="instance" width="6.4" height="39.7" instanceType="symbol" libraryItem="mc/ggggg" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.0500030517578125" d="0.30999755859375" tx="554.5" ty="30.2"/>
+					</element>
+				</frame>
+				<frame index="56" duration="180" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="35" name="layer 70" layerType="masked" parentIndex="3">
+				<frame duration="22" tweenType="motion">
+					<element elementType="instance" width="225.4" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="11.269668579101562" d="0.80999755859375" tx="338.35" ty="214.9"/>
+					</element>
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="225.4" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="11.269668579101562" d="0.80999755859375" tx="338.35" ty="214.9"/>
+					</element>
+				</frame>
+				<frame index="27" duration="5" tweenType="motion">
+					<element elementType="instance" width="225.4" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="11.269668579101562" d="0.80999755859375" tx="338.85" ty="50.1"/>
+					</element>
+				</frame>
+				<frame index="32" duration="9" tweenType="motion">
+					<element elementType="instance" width="225.4" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="11.269668579101562" d="0.80999755859375" tx="338.85" ty="50.1"/>
+					</element>
+				</frame>
+				<frame index="41" duration="14" tweenType="motion">
+					<element elementType="instance" width="331.9" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="16.594619750976562" d="0.80999755859375" tx="392.4" ty="50.1"/>
+					</element>
+				</frame>
+				<frame index="55" duration="7" tweenType="motion">
+					<element elementType="instance" width="331.9" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="11,211,157,0" colorPercent="0,0,0,100">
+						<matrix a="16.594619750976562" d="0.80999755859375" tx="392.4" ty="50.1"/>
+					</element>
+				</frame>
+				<frame index="62" tweenType="none">
+					<element elementType="instance" width="331.9" height="16.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="16.594619750976562" d="0.80999755859375" tx="392.4" ty="50.1"/>
+					</element>
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="36" name="layer 71" layerType="masked" parentIndex="3">
+				<frame duration="22" tweenType="none">
+					<element elementType="instance" width="331.6" height="17" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.580001831054688" d="0.847503662109375" tx="391.05" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="22" duration="5" tweenType="motion">
+					<element elementType="instance" width="331.6" height="17" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.580001831054688" d="0.847503662109375" tx="391.05" ty="214.65"/>
+					</element>
+				</frame>
+				<frame index="27" duration="28" tweenType="motion">
+					<element elementType="instance" width="331.6" height="17" instanceType="symbol" libraryIte^="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.580001831054688" d="0.847503662109375" tx="391.05" ty="49.05"/>
+					</element>
+				</frame>
+				<frame index="55" duration="7" tweenType="motion">
+					<element elementType="instance" width="331.6" height="17" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.580001831054688" d="0.847503662109375" tx="391.05" ty="49.05"/>
+					</element>
+				</frame>
+				<frame index="62" tweenType="none">
+					<element elementType="instance" width="331.6" height="17" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="16.580001831054688" d="0.847503662109375" tx="391.05" ty="49.05"/>
+					</element>
+				</frame>
+				<frame index="63" duration="173" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="37" name="状态英文" layerType="masked" parentIndex="3">
+				<frame duration="27" tweenType="none">
+					<element elementType="instance" width="194" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_11.png">
+						<matrix tx="296.25" ty="284.65"/>
+					</element>
+				</frame>
+				<frame index="27" duration="14" tweenType="none">
+					<element elementType="instance" width="137" height="18" instanceType="symbol" libraryItem="mc/matching" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="319.1" ty="285.25"/>
+					</element>
+				</frame>
+				<frame index="41" duration="84" tweenType="none">
+					<element elementType="instance" width="138" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_12.png">
+						<matrix tx="324.25" ty="284.45"/>
+					</element>
+				</frame>
+				<frame index="125" duration="12" tweenType="none">
+				</frame>
+				<frame index="137" duration="99" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="38" name="装饰的分割成" layerType="masked" parentIndex="3">
+				<frame duration="236" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="39" name="layer 5" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="450" height="67" instanceType="bitmap" libraryItem="images/sfqr_zy01.png">
+						<matrix tx="166.95" ty="275.65"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="40" name="两边" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="462.55" height="655.65" instanceType="symbol" libraryItem="mc/bian" colorAmount="3,252,184,0" colorPercent="0,0,0,70">
+						<matrix tx="159.5" ty="-338.899"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="41" name="顶" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="392" height="65" instanceType="bitmap" libraryItem="images/sfqr_zy02.png">
+						<matrix tx="196.95" ty="-335.449"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="42" name="英雄LOGO" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="78.35" height="51.05" instanceType="symbol" libraryItem="mc/yxbz" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.8799896240234375" d="0.8799896240234375" tx="354.25" ty="-323.899"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="43" name="黑框" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="392" height="537.2" instanceType="bitmap" libraryItem="images/sfqr_zy03.png">
+						<matrix d="1.009735107421875" tx="196.95" ty="-270.449"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="44" name="壁纸" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="457.3" height="697.1" instanceType="symbol" libraryItem="mc/bjing" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="-1.0278778076171875" d="-1.0198974609375" tx="619.55" ty="335.5"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="45" name="layer 72  复制 2" layerType="masked" parentIndex="3">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="466.2" height="714.6" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="23.310272216796875" d="35.73016357421875" tx="392.1" ty="1.65"/>
+					</element>
+				</frame>
+				<frame index="230" duration="6" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="46" name="fx_04">
+				<frame duration="230" tweenType="none">
+					<element elementType="instance" width="496" height="710" instanceType="symbol" libraryItem="mc/sj1" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.5"/>
+					</element>
+				</frame>
+				<frame index="230" duration="5" tweenType="motion">
+					<element elementType="instance" width="496" height="710" instanceType="symbol" libraryItem="mc/sj1" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="391.5"/>
+					</element>
+				</frame>
+				<frame index="235" tweenType="none">
+					<element elementType="instance" width="77.9" height="111.5" instanceType="symbol" libraryItem="mc/sj1" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.1570587158203125" d="0.1570587158203125" tx="578.85" ty="279.9"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/aaaa">
+			<layer index="0" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="154" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_06.png">
+						<matrix tx="-76.999" ty="-15.499"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/aeqe">
+			<layer index="0" name="layer 1">
+				<frame duration="45" tweenType="none">
+					<element elementType="instance" width="228.9" height="332" instanceType="bitmap" libraryItem="images/sfqr_tu_aa.png">
+						<matrix tx="-114.449" ty="-165.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/agggg">
+			<layer index="0" name="layer 1" layerType="mask">
+				<frame duration="8" tweenType="motion">
+					<element elementType="instance" width="44.2" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="2.2075042724609375" d="1.41998291015625" tx="261" ty="-227.749"/>
+					</element>
+				</frame>
+				<frame index="8" duration="82" tweenType="none">
+					<element elementType="instance" width="322.4" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.121353149414062" d="1.41998291015625" tx="400.5" ty="-227.749"/>
+					</element>
+				</frame>
+				<frame index="90" duration="54" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="1" name="layer 2" layerType="masked" parentIndex="0">
+				<frame duration="90" tweenType="none">
+					<element elementType="instance" width="337" height="50" instanceType="bitmap" libraryItem="images/sfqr_wz_05.png">
+						<matrix tx="240.2" ty="-238.999"/>
+					</element>
+				</frame>
+				<frame index="90" duration="54" tweenType="none">
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/asdadad">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="512" height="210" instanceType="bitmap" libraryItem="images/oop-2.png">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/asdadz">
+			<layer index="0" name="layer 1 复制">
+				<frame tweenType="none">
+					<element elementType="instance" width="327.65" height="21.35" instanceType="bitmap" libraryItem="images/bg_grid114_b.png">
+						<matrix a="0.6399688720703125" d="0.239715576171875"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/bian">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="41.05" height="655.35" instanceType="bitmap" libraryItem="images/sfqr_bian1.png">
+						<matrix a="0.000091552734375" b="0.6399993896484375" c="-0.6399993896484375" d="0.000091552734375" tx="42.95" ty="1"/>
+					</element>
+					<element elementType="instance" width="41.05" height="655.35" instanceType="bitmap\ libraryItem="images/sfqr_bian1.png">
+						<matrix a="0.000091552734375" b="0.639984130859375" c="0.6399993896484375" d="0.000091552734375" tx="423.5" ty="1.3"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/bjing">
+			<layer index="0" name="layer 1 复制">
+				<frame duration="54" tweenType="motion">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,30">
+						<matrix a="-1" d="-1" tx="442.9" ty="651.4"/>
+					</element>
+				</frame>
+				<frame index="54" duration="58" tweenType="motion">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,64,100,50">
+						<matrix a="-1" d="-1" tx="442.9" ty="667.4"/>
+					</element>
+				</frame>
+				<frame index="112" tweenType="motion">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,30">
+						<matrix a="-1" d="-1" tx="442.9" ty="651.4"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 1">
+				<frame duration="54" tweenType="motion">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" colorAmount="0,0,0,0" colorPercent="100,100,100,30">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="54" duration="58" tweenType="motion">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" colorAmount="0,0,0,0" colorPercent="100,64,100,30">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="112" tweenType="none">
+					<element elementType="instance" width="443.95" height="667.45" instanceType="symbol" libraryItem="mc/blbl" colorAmount="0,0,0,0" colorPercent="100,100,100,30">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/blbl">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="222" height="667.15" instanceType="bitmap" libraryItem="images/gemmap_c.png">
+						<matrix a="0.000091552734375" b="0.7839813232421875" c="-0.90948486328125" d="0.000091552734375" tx="442.85"/>
+					</element>
+					<element elementType="instance" width="221.95" height="667.15" instanceType="bitmap" libraryItem="images/gemmap_c.png">
+						<matrix a="0.000030517578125" b="0.7839813232421875" c="0.90948486328125" d="-0.0000152587890625" tx="-0.999" ty="0.3"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/fafaf">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="195" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_02.png">
+						<matrix tx="-97.499" ty="-15.499"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/gadga">
+			<layer index="0" name="layer 1 复制">
+				<frame tweenType="none">
+					<element elementType="instance" width="358" height="504" instanceType="bitmap" libraryItem="images/sfqr_shoujidi_b.png">
+						<matrix a="2" d="2"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/gag">
+			<layer index="0" name="layer 2 复制">
+				<frame tweenType="none">
+					<element elementType="instance" width="129" height="129" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,255,204,0" colorPercent="0,0,0,100">
+						<matrix a="6.4499969482421875" d="6.4499969482421875" tx="64.5" ty="64.5"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="130.3" height="130.3" instanceType="symbol" libraryItem="mc/sjh" colorAmount="255,255,255,0" colorPercent="0,0,0,100">
+						<matrix a="6.51446533203125" d="6.51446533203125" tx="64.5" ty="64.5"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/gasda">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_06.png">
+						<matrix tx="-37.749" ty="-10.949"/>
+					</element>
+					<element elementType="instance" width="16" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_00.png">
+						<matrix tx="-3.749" ty="-10.999"/>
+					</element>
+					<element elementType="instance" width="12" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_01.png">
+						<matrix tx="8.4" ty="-10.999"/>
+					</element>
+					<element elementType="instance" width="17" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_08.png">
+						<matrix tx="-24.899" ty="-10.949"/>
+					</element>
+					<element elementType="instance" width="13" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_dian.png">
+						<matrix tx="-12.849" ty="-10.999"/>
+					</element>
+					<element elementType="instance" width="21" height="22" instanceType="bitmap" libraryItem="images/sfqr_sz_baif.png">
+						<matrix tx="16.8" ty="-10.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/ggggg">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="128" height="128" instanceType="bitmap" libraryItem="images/ui_kzz_16.png">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/gsdgsg">
+			<layer index="0" name="layer 3" layerType="mask">
+				<frame duration="139" tweenType="none">
+					<element elementType="instance" width="168.9" height="225" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="8.44354248046875" d="11.25152587890625" tx="412.6" ty="-125.299"/>
+					</element>
+				</frame>
+				<frame index="139" duration="4" tweenType="motion">
+					<element elementType="instance" width="168.9" height="225" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="8.44354248046875" d="11.25152587890625" tx="412.6" ty="-125.299"/>
+					</element>
+				</frame>
+				<frame index="143" tweenType="none">
+					<element elementType="instance" width="1.7" height="2.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.0850372314453125" d="0.11004638671875" tx="412.4" ty="-125.549"/>
+					</element>
+				</frame>
+				<frame index="144" duration="110" tweenType="none">
+				</frame>
+				<frame index="254" duration="5" tweenType="motion">
+					<element elementType="instance" width="1.7" height="2.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.0850372314453125" d="0.11004638671875" tx="412.4" ty="-125.549"/>
+					</element>
+				</frame>
+				<frame index="259" duration="49" tweenType="motion">
+					<element elementType="instance" width="168.9" height="225" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="8.44354248046875" d="11.25152587890625" tx="412.6" ty="-125.299"/>
+					</element>
+				</frame>
+				<frame index="308" duration="11" tweenType="none">
+					<element elementType="instance" width="168.9" height="225" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="8.44354248046875" d="11.25152587890625" tx="412.6" ty="-125.299"/>
+					</element>
+				</frame>
+				<frame index="319" tweenType="none">
+					<element elementType="instance" width="1.7" height="2.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.0850372314453125" d="0.11004638671875" tx="412.4" ty="-125.549"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="图片" layerType="masked" parentIndex="0">
+				<frame duration="144" tweenType="none">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/tpyd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="326.95" ty="-344.999"/>
+					</element>
+				</frame>
+				<frame index="144" duration="110" tweenType="none">
+				</frame>
+				<frame index="254" duration="66" tweenType="none">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/tpyd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="326.95" ty="-344.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/gsgsg">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="137" height="18" instanceType="bitmap" libraryItem]"images/sfqr_wz_09.png">
+						<matrix tx="-68.499" ty="-8.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/matching">
+			<layer index="0" name="layer 1">
+				<frame duration="29" tweenType="motion">
+					<element elementType="instance" width="137" height="18" instanceType="symbol" libraryItem="mc/gsgsg" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="74.15" ty="16.5"/>
+					</element>
+				</frame>
+				<frame index="29" duration="30" tweenType="motion">
+					<element elementType="instance" width="137" height="18" instanceType="symbol" libraryItem="mc/gsgsg" colorAmount="0,0,0,0" colorPercent="100,100,100,80">
+						<matrix tx="74.15" ty="16.5"/>
+					</element>
+				</frame>
+				<frame index="59" tweenType="none">
+					<element elementType="instance" width="137" height="18" instanceType="symbol" libraryItem="mc/gsgsg" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="74.15" ty="16.5"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qeadd">
+			<layer index="0" name="layer 1" layerType="mask">
+				<frame duration="33" tweenType="motion">
+					<element elementType="instance" width="319.1" height="14.9" instanceType="symbol" libraryItem="mc/qweqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="406.75" ty="-172.349"/>
+					</element>
+				</frame>
+				<frame index="33" duration="35" tweenType="none">
+					<element elementType="instance" width="319" height="389.9" instanceType="symbol" libraryItem="mc/rqrraf" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix d="25.994918823242188" tx="406.25" ty="-0.149"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 2" layerType="masked" parentIndex="0">
+				<frame duration="68" tweenType="none">
+					<element elementType="instance" width="268" height="339" instanceType="bitmap" libraryItem="images/sfqr_wz_14.png">
+						<matrix tx="258.45" ty="-155.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qeqe">
+			<layer index="0" name="layer 6">
+				<frame duration="74" tweenType="none">
+					<element elementType="instance" width="321.5" height="25.45" instanceType="symbol" libraryItem="mc/agggg" loop="play once" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="74" duration="54" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="1" name="layer 2">
+				<frame duration="10" tweenType="none">
+				</frame>
+				<frame index="10" duration="64" tweenType="none">
+					<element elementType="instance" width="336.7" height="25.5" instanceType="symbol" libraryItem="mc/qtqt" loop="play once" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="74" duration="54" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="2" name="layer 4">
+				<frame duration="74" tweenType="none">
+				</frame>
+				<frame index="74" duration="54" tweenType="none">
+					<element elementType="instance" width="337" height="50" instanceType="bitmap" libraryItem="images/sfqr_wz_05.png">
+						<matrix tx="240.2" ty="-238.999"/>
+					</element>
+					<element elementType="instance" width="104" height="29" instanceType="bitmap" libraryItem="images/sfqr_wz_10.png">
+						<matrix tx="360.3" ty="213.4"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qeqeqe">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="170.55" height="222.7" instanceType="bitmap" libraryItem="images/wamgzhuangxian_1.png">
+						<matrix a="1.1925506591796875" d="0.8699951171875" tx="2" ty="3.6"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qeqr">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+				</frame>
+			</layer>
+			<layer index="1" name="target_3.png">
+				<frame tweenType="none">
+					<element elementType="instance" width="133.1" height="66.55" instanceType="bitmap" libraryItem="images/target_3.png">
+						<matrix a="0.519989013671875" d="0.519989013671875"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qqqw">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="104" height="31" instanceType="bitmap" libraryItem="images/sfqr_wz_07.png">
+						<matrix tx="-52.099" ty="-15.699"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qtqt">
+			<layer index="0" name="layer 1" layerType="mask">
+				<frame duration="12" tweenType="motion">
+					<element elementType="instance" width="43.2" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="2.1591033935546875" d="1.41998291015625" tx="261.4" ty="-200.249"/>
+					</element>
+				</frame>
+				<frame index="12" duration="5" tweenType="none">
+					<element elementType="instance" width="313.1" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="15.655120849609375" d="1.41998291015625" tx="396.45" ty="-200.249"/>
+					</element>
+				</frame>
+				<frame index="17" duration="5" tweenType="none">
+					<element elementType="instance" width="325.6" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.281219482421875" d="1.41998291015625" tx="402.7" ty="-200.249"/>
+					</element>
+				</frame>
+				<frame index="22" duration="58" tweenType="none">
+					<element elementType="instance" width="337" height="28.4" instanceType="symbol" libraryItem="mc/sjh" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="16.85113525390625" d="1.41998291015625" tx="408.4" ty="-200.249"/>
+					</element>
+				</frame>
+				<frame index="80" duration="54" tweenType="none">
+				</frame>
+			</layer>
+			<layer index="1" name="layer 3 复制" layerType="masked" parentIndex="0">
+				<frame duration="80" tweenType="none">
+					<element elementType="instance" width="337" height="50" instanceType="bitmap" libraryItem="images/sfqr_wz_05.png">
+						<matrix tx="240.2" ty="-238.999"/>
+					</element>
+				</frame>
+				<frame index="80" duration="54" tweenType="none">
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qweqe">
+			<layer index="0" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="319.1" height="14.9" instanceType="symbol" libraryItem="mc/sjh" colorAmount="255,255,255,0" colorPercent="0,0,0,40">
+						<matrix a="15.955535888671875" d="0.7449951171875" tx="0.1" ty="0.1"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qweqeeeee">
+			<layer index="0" name="layer 1">
+				<frame duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_01.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="2" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_02.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="4" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_03.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="6" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_04.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="8" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_05.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="10" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_06.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="12" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_07.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="14" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_08.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="16" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_09.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="18" duration="2" tweenType="none">
+					<element elementType="(nstance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_10.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="20" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_11.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="22" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_12.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="24" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_13.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="26" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_14.png">
+						<matrix/>
+					</element>
+				</frame>
+				<frame index="28" duration="2" tweenType="none">
+					<element elementType="instance" width="234" height="336" instanceType="bitmap" libraryItem="images/juesexz_15.png">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 2">
+				<frame duration="30" tweenType="none">
+					<element elementType="instance" width="143" height="49.55" instanceType="symbol" libraryItem="mc/wrr" colorAmount="2,252,184,0" colorPercent="0,0,0,35">
+						<matrix d="1.03997802734375" tx="23.4" ty="296.75"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qwer">
+			<layer index="0" name="sjh">
+				<frame tweenType="none">
+					<element elementType="instance" width="204.8" height="13" instanceType="symbol" libraryItem="mc/sjh" colorAmount="51,255,255,0" colorPercent="0,0,0,80">
+						<matrix a="10.240005493164062" d="0.649993896484375" tx="-0.099"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/qwerrr">
+			<layer index="0" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="205.1" height="13.2" instanceType="symbol" libraryItem="mc/sjh" colorAmount="51,255,255,0" colorPercent="0,0,0,80">
+						<matrix a="10.25250244140625" d="0.657501220703125" tx="0.1" ty="-0.049"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/rqrq">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="227" height="227" instanceType="bitmap" libraryItem="images/kejiquang_b.png">
+						<matrix tx="-113.499" ty="-113.499"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/rqrqr">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="8" height="256" instanceType="bitmap" libraryItem="images/lo1.png">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/rqrraf">
+			<layer index="0" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="319" height="15" instanceType="symbol" libraryItem="mc/sjh" colorAmount="255,255,255,0" colorPercent="0,0,0,40">
+						<matrix a="15.952484130859375" d="0.75" tx="-0.049" ty="0.15"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/rqwr">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="334" height="19" instanceType="bitmap" libraryItem="images/sfqr_xian_04.png">
+						<matrix tx="-167.049" ty="-9.499"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/rqwradd">
+			<layer index="0" name="layer 1 复制">
+				<frame duration="30" tweenType="motion">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqrq" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix a="0.339996337890625" d="0.339996337890625" tx="113.5" ty="113.5"/>
+					</element>
+				</frame>
+				<frame index="30" tweenType="none">
+					<element elementType="instance" width="410.9" height="410.9" instanceType="symbol" libraryItem="mc/rqrq" blendMode="add" colorAmount="0,0,0,0" colorPercent="100,100,100,0">
+						<matrix a="1.81011962890625" d="1.81011962890625" tx="113.55" ty="113.55"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/sj1">
+			<layer index="0" name="layer 2">
+				<frame tweenType="none">
+					<element elementType="instance" width="496" height="710" instanceType="bitmap" libraryItem="images/phone.png">
+						<matrix tx="-247.999" ty="-354.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/sjh">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="20" height="20" instanceType="bitmap" libraryItem="images/heifangkuan.png">
+						<matrix tx="-9.999" ty="-9.999"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/tpyd">
+			<layer index="0" name="layer 2">
+				<frame duration="31" tweenType="motion">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqwradd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-7.149" ty="31.85"/>
+					</element>
+				</frame>
+				<frame index="31" duration="59" tweenType="motion">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqwradd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-60.149" ty="31.85"/>
+					</element>
+				</frame>
+				<frame index="90" duration="53" tweenType="motion">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqwradd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-60.149" ty="137.85"/>
+					</element>
+				</frame>
+				<frame index="143" duration="65" tweenType="motion">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqwradd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-7.149" ty="137.85"/>
+					</element>
+				</frame>
+				<frame index="208" tweenType="none">
+					<element elementType="instance" width="77.2" height="77.2" instanceType="symbol" libraryItem="mc/rqwradd" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="-7.149" ty="36.85"/>
+					</element>
+				</frame>
+			</layer>
+			<layer index="1" name="layer 1">
+				<frame duration="31" tweenType="motion">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/aeqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="114.45" ty="166"/>
+					</element>
+				</frame>
+				<frame index="31" duration="59" tweenType="motion">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/aeqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="58.45" ty="166"/>
+					</element>
+				</frame>
+				<frame index="90" duration="53" tweenType="motion">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/aeqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="58.45" ty="270"/>
+					</element>
+				</frame>
+				<frame index="143" duration="65" tweenType="motion">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/aeqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="113.4" ty="270"/>
+					</element>
+				</frame>
+				<frame index="208" tweenType="none">
+					<element elementType="instance" width="228.9" height="332" instanceType="symbol" libraryItem="mc/aeqe" colorAmount="0,0,0,0" colorPercent="100,100,100,100">
+						<matrix tx="114.45" ty="166"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/wrr">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="143" height="47.65" instanceType="bitmap" libraryItem="images/kejiquang_b.png">
+						<matrix a="0.6299896240234375" d="0.209991455078125" tx="23.85"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/yxbz">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="89" height="58" instanceType="bitmap" libraryItem="images/sfqr_xxxh.png">
+						<matrix tx="-0.499" ty="-0.499"/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+		<symbol name="mc/zw">
+			<layer index="0" name="layer 1">
+				<frame tweenType="none">
+					<element elementType="instance" width="256" height="256" instanceType="bitmap" libraryItem="images/zhiwen_1.png">
+						<matrix/>
+					</element>
+				</frame>
+			</layer>
+		</symbol>
+	</symbols>
+</BodyC
